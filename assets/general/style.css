@@ -141,6 +141,7 @@ a, a:link, a:hover, a:visited, a:active {
 .license {
   position: absolute;
   bottom: 0;
+  left: 10;
   width: 100%;
   font-weight: 200;
   font-size: 0.75rem;
