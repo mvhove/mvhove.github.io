@@ -122,6 +122,8 @@
 }
 
 .license {
+  position: fixed;
+  bottom: 0;
   width: 100%;
   font-weight: 200;
   font-size: 0.75rem;
