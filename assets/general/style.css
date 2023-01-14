@@ -1,3 +1,9 @@
+a, a:hover, a:focus, a:active, a:visited {
+	color: blue;
+	text-decoration: none;
+}
+
+
 @font-face {
     font-family: 'IBM Plex Sans';
     src: url('IBMPlexSans-ThinItalic.ttf') format('truetype');
@@ -182,8 +188,4 @@
   text-align: center;
   justify-content: center;
   display: flex;
-}
-
-a, a:visited {
-	color: gray;
 }
