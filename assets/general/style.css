@@ -159,6 +159,7 @@ a, a:link, a:hover, a:visited, a:active {
 }
 
 .homeslash {
+  color: black;
   font-size: 1.25rem;
   font-weight: 400;
   margin: 5px;
