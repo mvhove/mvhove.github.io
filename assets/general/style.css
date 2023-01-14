@@ -139,7 +139,7 @@ a, a:link, a:hover, a:visited, a:active {
 }
 
 .license {
-  position: avsolute;
+  position: absolute;
   bottom: 0;
   width: 100%;
   font-weight: 200;
