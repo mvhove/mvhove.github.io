@@ -181,6 +181,11 @@ a, a:link, a:hover, a:visited, a:active {
   text-indent: 45px
 }
 
+.pnoindent {
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
 .backdiv {
   font-weight: 300;
   margin: 1rem;
